@@ -9,5 +9,6 @@
 | [CSharp-OpenBMCLAPI](https://github.com/SALTWOOD/CSharp-OpenBMCLAPI) | CSharp | All | 基本可用 |
 | [PHP-OpenBMCLAPI](https://github.com/AppleBlockTeam/php-openbmclapi) | PHP | All | 基本可用 |
 | [openbmclapi_rs](https://github.com/HWServer/openbmclapi_rs) | Rust | All | 不可用 |
+| [Node-OpenBMCLAPI-Fix](https://github.com/Zhang12334/Node-OBA-Fix) | Node.JS | All | 可用 |
 <!-- | [e-OpenBMCLAPI](https://github.com/kndxhz/e-openbmclapi) | 易语言 | Windows | WIP |  (Uncomment it when it has actual code)-->
 
